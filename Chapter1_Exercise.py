@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key="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"
+openai.api_key="OPENAI_API_KEY"
 
 # Requirements
 # Write a code so that we have the most random possible answer. Meaning setting the value that determines randomness to max
